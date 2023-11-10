@@ -1,0 +1,7 @@
+altgraph==0.17.4
+lxml==4.9.3
+packaging==23.2
+pyinstaller==6.0.0
+pyinstaller-hooks-contrib==2023.9
+XlsxWriter==3.1.6
+flet~=0.11.0
